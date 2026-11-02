@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	int a,mb,choice,res;
+	int a,m,b,choice,res;
 	printf("===OPERATORA AND EXPRESSION====\n");
 	printf("Enter the first number:");
 	scanf("%d",&a);
